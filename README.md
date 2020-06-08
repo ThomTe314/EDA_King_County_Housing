@@ -6,3 +6,4 @@ as well as modeling data using linear regression.
 In the pdf file called 'EDA-Project' you will 
 find all information you need concerning the tasks 
 of the project.
+"EDA_King_County_Housing" 

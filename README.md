@@ -1,9 +1,9 @@
-# Project1_Data_Analysis
+# Analysis of King County Housing Data
+
 This project is centered around exploratory data 
 analysis (EDA) techniques and statistical analysis, 
 as well as modeling data using linear regression.
 
-In the pdf file called 'EDA-Project' you will 
-find all information you need concerning the tasks 
-of the project.
-"EDA_King_County_Housing" 
+The results are presented in the file "King County EDA Telgen.pdf".
+
+For further questions fell free to contact me!
